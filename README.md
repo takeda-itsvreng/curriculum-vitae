@@ -40,20 +40,56 @@
 
 #### ミャンマーのSIer(日本の会社とミャンマーの会社の合弁会社) 2019/10 ～
 
-現在、参画中。
+現在、技術アドバイザーのような立ち位置で参画中。
 
 ---
 
 #### 放送局グループ会社(ユーザ企業のようなもの) 2016/05 ～ 2019/09
 
-- この会社での各プロジェクトで関わった製品
-  - OS
-  - 仮想化
+<details>
+<summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
+<pre>
+<code>
+OS
+ - RHEL7系
+ - WindowsServer 2012R2/2016
+仮想化
+ - ESXi 6.0/6.5/6.7
+ - vCSA 6.0/6.5/6.7
+DBMS
+ - Oracle 12c
+ - EDB Postgres 10
+Web/AP
+ - Weblogic
+ - Apache
+ - Tomcat
+監視
+ - Zabbix 3/4
+ - JP1 Base/IM/AJS/TELStaff
+バックアップ
+ - Netbackup
+ - Veeam Backup & Replication
+高可用
+ - AppHA
+Windows管理
+ - ActiveDirectory
+ - WSUS
+その他
+ - Bash shell
+ - Powershell
+ - VMware PowerCLI
+ - ansible
+ - gitlab
+ - Serverspec
+ - molecule
+</code>
+</pre>
+</details>
+
 - 開発環境HW更新
-  - 時期：
-  - 役割：
-  - 業務内容：
-  - 技術：
+  - 時期：2019/01 ～ 2019/07
+  - 役割：メンバ
+  - 業務内容：開発環境のHW保守期限にともない、HWをリプレースする
 
 ---
 
