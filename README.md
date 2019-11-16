@@ -75,6 +75,8 @@ Web/AP
 Windows管理
  - ActiveDirectory
  - WSUS
+セキュリティ
+ - SEPM
 その他
  - Bash shell
  - Powershell
