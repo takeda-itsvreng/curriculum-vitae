@@ -1,5 +1,7 @@
 # 業務経歴書
 
+In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
+
 ## 基本情報
 
 | key | value |
