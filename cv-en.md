@@ -13,6 +13,11 @@
 | Facebook | https://web.facebook.com/hiroki.takeda.9216 |
 
 ## SUMMARY
+
+- 10+ years experiences as IT server engineer.
+- Planning and implementation with non-functional requirement of the system such as Availability, Backup, Disaster recovery and Monitoring.
+- 
+
 ## WORK EXPERIENCE
 ## EDUCATION
 ## CERTIFICATION & SKILLS
