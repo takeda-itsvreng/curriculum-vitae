@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+日本語版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/README.md)
+
 ## BASIC INFORMATION
 
 | key | value |
