@@ -14,11 +14,15 @@
 
 ## SUMMARY
 
-- 10+ years experiences as IT server engineer.
+- 10+ years experiences as IT Infrastructure Engineer (except Network).
 - Planning and implementation with non-functional requirement of the system such as Availability, Backup, Disaster recovery and Monitoring.
 - 
 
 ## WORK EXPERIENCE
+
+### 
+### 05/2016 - 09/2019, IT Infrastructure Engineer
+
 ## EDUCATION
 ## CERTIFICATION & SKILLS
 ## LANGUAGE
