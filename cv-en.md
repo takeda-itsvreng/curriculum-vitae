@@ -27,9 +27,9 @@
 <pre>
 <code>
 OS
- - RHEL7系
+ - RHEL7
  - WindowsServer 2012R2/2016
-仮想化
+Virtualization
  - ESXi 6.0/6.5/6.7
  - vCSA 6.0/6.5/6.7
 DBMS
@@ -39,20 +39,20 @@ Web/AP
  - Weblogic
  - Apache
  - Tomcat
-監視
+Monitoring
  - Zabbix 3/4
  - JP1 Base/IM/AJS/TELStaff
-バックアップ
+Backup
  - Netbackup
  - Veeam Backup & Replication
-高可用
+High Availability
  - AppHA
-Windows管理
+Windows Management
  - ActiveDirectory
  - WSUS
-セキュリティ
+Security
  - SEPM
-その他
+Others
  - Bash shell
  - Powershell
  - VMware PowerCLI
@@ -65,9 +65,9 @@ Windows管理
 </pre>
 </details>
 
-- 開発環境の仮想マシンを30台以上更改した。ADサーバやDBサーバやAPサーバなど。ansibleでの構築やServerspecのテスト自動化も試した。
-- 地方局のシステム更改、テストを実施した。本社と支社の回線が遅かったため、RHELではtcコマンド、WindowsではNetQoSとWindowsUpdateをBrancheCache分散モードの帯域制御を実装。
-- ファイル伝送サーバの更改、テストを実施した。データベースをOracleからEDB Postgresに変更。バックアップリストアでPITRによる障害直前までのテストまで確認。
+- Updated 30+ existing virtual machines in the development environment, AD/DB/AP servers, etc. Also tried building servers using ansible and automation server test using Serverspec.
+- Built and tested the local station system. Implemented bandwidth control because the network between the head office and branch office was slow, Using tc command for RHEL, NetQoS for Windows and Distributed Mode for Windows Update.
+- Updated and tested the file transfer server. Changed database from Oracle to EDB Postgres. Tested database backup and restore using Point-in-time recovery. 
 - キー局システムの保守運用を実施。障害対応やDR切替テスト、ジョブ作成、監視項目設定などを担当。
 
 ## EDUCATION
