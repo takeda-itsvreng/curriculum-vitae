@@ -14,9 +14,8 @@
 
 ## SUMMARY
 
-- 10+ years experiences as IT Infrastructure Engineer (except Network).
+- 10+ years experiences as an IT Infrastructure Engineer (except Network).
 - Planning and implementation with non-functional requirement of the system such as Availability, Backup, Disaster recovery and Monitoring.
-- 
 
 ## WORK EXPERIENCE
 
@@ -68,8 +67,12 @@ Others
 - Updated 30+ existing virtual machines in the development environment, AD/DB/AP servers, etc. Also tried building servers using ansible and automation server test using Serverspec.
 - Built and tested the local station system. Implemented bandwidth control because the network between the head office and branch office was slow, Using tc command for RHEL, NetQoS for Windows and Distributed Mode for Windows Update.
 - Updated and tested the file transfer server. Changed database from Oracle to EDB Postgres. Tested database backup and restore using Point-in-time recovery. 
-- キー局システムの保守運用を実施。障害対応やDR切替テスト、ジョブ作成、監視項目設定などを担当。
+- Maintained the some systems. Troubleshot them, Tested to switch over to DR site, Created maintenance jobs, setup monitoring items and so on.
 
 ## EDUCATION
+
+Bachelor of Information and Telecommunication Engineering, Apr 2003 - Mar 2007  
+Tokai University, Shizuoka, Japan
+
 ## CERTIFICATION & SKILLS
 ## LANGUAGE
