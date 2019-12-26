@@ -69,10 +69,36 @@ Others
 - Updated and tested the file transfer server. Changed database from Oracle to EDB Postgres. Tested database backup and restore using Point-in-time recovery. 
 - Maintained the some systems. Troubleshot them, Tested to switch over to DR site, Created maintenance jobs, setup monitoring items and so on.
 
+#### Information technology services company 4, 09/2015 - 04/2016, IT Infrastructure Engineer
+
+<details>
+<summary>Products used in each project of this company(collapse)</summary>
+<pre>
+<code>
+OS
+ - RHEL6.6
+ - WindowsServer 2012R2
+Virtualization
+ - Oracle VM VirtualBox
+DBMS
+ - Oracle 12c
+Monitoring
+ - JP1 Base/IM/AJS/SSO/NNMi
+</code>
+</pre>
+</details>
+
+- 
+
 ## EDUCATION
 
 Bachelor of Information and Telecommunication Engineering, Apr 2003 - Mar 2007  
 Tokai University, Shizuoka, Japan
 
-## CERTIFICATION & SKILLS
+## CERTIFICATION
+
+- Applied Information Technology Engineer Examination by Japan National Qualifications (Dec 2010)
+
 ## LANGUAGE
+
+- TOEIC (Test of English for International Communication) Listening & Reading Test 685 (Mar 2019)
