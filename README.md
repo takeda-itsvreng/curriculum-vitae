@@ -110,11 +110,11 @@ Windows管理
  - Bash shell
  - Powershell
  - VMware PowerCLI
- - ansible
+ - Ansible
  - AWX
- - gitlab
+ - GitLab
  - Serverspec
- - molecule
+ - Molecule
 </code>
 </pre>
 </details>
