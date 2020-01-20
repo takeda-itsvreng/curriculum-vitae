@@ -49,86 +49,65 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 基本的にはミャンマー人と一緒に仕事。  
 ミャンマー人とは英語で会話。
 
-<details>
-<summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
-<pre>
-<code>
-DBMS
- - Oracle Database 12.1/12.2
- - Oracle Enterprise Manager Cloud Control 13.3
-</code>
-</pre>
-</details>
-
-- 各種銀行系システム対応
-  - 時期：2019/10 ～ 
-  - 役割：技術アドバイザー
-  - 業務内容：複数のシステムに少しずつ関わっているため、主に実施した内容を記載
-  - 特記事項：
-    - Oracle DBとOEMCCのインストール・設定をメンバー主動で実施(Windows Server 2012R2上)
-      - OEMCCは初だったが、マニュアルを見ながらテスト環境に実装し、それをメンバーに伝達
-      - ベンダーの構築サポート費用を削減
-    - Oracle DB障害対応をメンバー主動で実施(RHEL7上)
-      - 調査と対応案検討と対応手順作成は実施したが、対応案決定と対応作業はメンバー主動で実施
-      - ベンダーの障害対応サポート費用を削減
+- 役割：技術アドバイザー
+- 実績：
+  - 各種銀行系システムの設計・構築・保守・運用フェーズにおいて、技術アドバイザーとしてメンバに助言
+  - ベンダのサポート費用削減に協力
+  - 初の海外勤務および英語による業務を経験
+- この会社での各プロジェクトで関わった製品：
+  - DBMS
+    - Oracle Database 12.1/12.2
+    - Oracle Enterprise Manager Cloud Control 13.3
 
 ---
 
 #### 放送局グループ会社(ユーザ企業のようなもの) 2016/05 ～ 2019/09
 
-<details>
-<summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
-<pre>
-<code>
-OS
- - RHEL 7系
- - WindowsServer 2012R2/2016
-仮想化
- - ESXi 6.0/6.5/6.7
- - vCSA 6.0/6.5/6.7
-DBMS
- - Oracle Database 12c
- - EDB Postgres 10
-Web/AP
- - Weblogic
- - Apache
- - Tomcat
-監視
- - Zabbix 3/4
- - JP1 Base/IM/AJS/TELStaff
-バックアップ
- - Netbackup
- - Veeam Backup & Replication
-高可用
- - AppHA
-Windows管理
- - ActiveDirectory
- - WSUS
-セキュリティ
- - SEPM
-その他
- - Bash shell
- - Powershell
- - VMware PowerCLI
- - ansible
- - AWX
- - gitlab
- - Serverspec
- - molecule
-</code>
-</pre>
-</details>
-
-- 開発環境HW更新
-  - 時期：2019/01 ～ 2019/07
-  - 役割：メンバ
-  - 業務内容：開発環境のHW保守期限にともない、HWをリプレースする
-  - 特記事項：
-    - 30台ぐらいの仮想サーバ(旧HWからの移行および新規構築)が対象
-    - 移行時の開発チームとの調整はリーダにやってもらい、その他の実作業はほぼ一人で実施
-    - 開発環境かつそこまで緊急ではなかったため、これまでのナレッジの組み合わせや新規作成による自動化構築を実施
-    - 最終的にはAWXのワークフローでWeblogicを含んだAPサーバ5台を、ほぼ手放しで同時に新規構築し、かなりの快感を味わうことができた
-    - また、Serverspecによるパラメータチェックテスト自動化の土台となるテストコードを作成した(Linuxはshellが使えるため何でもできるが、Windowsはコマンドで設定できないものがあり作成できない項目もあった)
+- 役割：メンバ
+- 実績：
+  - 各種放送局システムの設計・構築・保守・運用フェーズにおいて、メンバとして対応
+  - ひとつのプロジェクトに対する割り当て要員が少なかったため、幅広い技術領域を経験
+  - システム全体を考慮した監視実装を経験
+  - Oracle DBからEDB Postgresへの製品移行を経験
+  - Infrastructure as Codeの便利さを体感
+  - Redmineによるインシデント管理を経験
+  - 初の国内出張を経験
+- この会社での各プロジェクトで関わった製品：
+  - OS
+    - RHEL 7系
+    - WindowsServer 2012R2/2016
+  - 仮想化
+    - ESXi 6.0/6.5/6.7
+    - vCSA 6.0/6.5/6.7
+  - DBMS
+    - Oracle Database 12c
+    - EDB Postgres 10
+  - Web/AP
+    - Weblogic
+    - Apache
+    - Tomcat
+  - 監視
+    - Zabbix 3/4
+    - JP1 Base/IM/AJS/TELStaff
+  - バックアップ
+    - Netbackup
+    - Veeam Backup & Replication
+  - 高可用
+    - AppHA
+  - Windows管理
+    - ActiveDirectory
+    - WSUS
+  - セキュリティ
+    - SEPM
+  - その他
+    - Bash shell
+    - Powershell
+    - VMware PowerCLI
+    - Ansible
+    - AWX
+    - GitLab
+    - Serverspec
+    - Molecule
 
 ---
 
