@@ -1,5 +1,6 @@
 # 業務経歴書
 
+簡易版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-jp-simplified.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
 ## 基本情報
