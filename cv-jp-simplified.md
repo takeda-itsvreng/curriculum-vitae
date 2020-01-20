@@ -1,6 +1,6 @@
 # 業務経歴書
 
-詳細版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/README.md)
+詳細版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/README.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
 ## 基本情報
