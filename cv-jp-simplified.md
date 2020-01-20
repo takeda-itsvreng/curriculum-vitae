@@ -1,4 +1,4 @@
-# 業務経歴書
+# 業務経歴書(簡易版)
 
 詳細版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/README.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
