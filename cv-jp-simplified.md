@@ -95,7 +95,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
     - Netbackup
     - Veeam Backup & Replication
   - 高可用
-    - AppHA
+    - Symantec ApplicationHA
   - Windows管理
     - ActiveDirectory
     - WSUS
