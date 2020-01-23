@@ -100,7 +100,7 @@ Web/AP
  - Netbackup
  - Veeam Backup & Replication
 高可用
- - AppHA
+ - Symantec ApplicationHA
 Windows管理
  - ActiveDirectory
  - WSUS
