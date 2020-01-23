@@ -68,11 +68,12 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 - 実績：
   - 各種放送局システムの設計・構築・保守・運用フェーズにおいて、メンバとして対応
   - ひとつのプロジェクトに対する割り当て要員が少なかったため、幅広い技術領域を経験
-  - システム全体を考慮した監視実装を経験
+  - 1システム内の全体を考慮した監視実装を経験
   - Oracle DBからEDB Postgresへの製品移行を経験
   - Infrastructure as Codeの便利さを体感
   - Redmineによるインシデント管理を経験
   - 初の国内出張を経験
+  - BCP環境への切り替え作業において、1システム内の全環境立ち上げから業務チームに引き渡すまでを経験
 - この会社での各プロジェクトで関わった製品：
   - OS
     - RHEL 7系
@@ -141,6 +142,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
   - 機能追加案件のスケジュール策定から各種調整、実作業、品質保証会議資料作成などをインフラメイン担当として経験
   - ピーク時80h/月ほどの残業を経験
   - 操作ミスによりテスト環境のDBを壊してしまい、各方面への謝罪を経験
+  - この辺りでこれまでの経験からシステム全体が見えるようになり、様々なことに首を突っ込めるようになったため、わからないことにも首を突っ込んで自分なにり考えて行動することにより、偉い人から評価されることを体感
 - この会社での各プロジェクトで関わった製品
   - OS
     - HP-UX 11i v3
@@ -157,7 +159,8 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 - 役割：メンバ
 - 実績：
   - 証券会社の各種システムの設計・構築・保守・運用フェーズにおいて、メンバとして対応
-  - 
+  - 障害発生時の運用検討などの運用に関する技術を習得
+  - 一人で客先に行き、お客様立ち合いの中でのシステム変更を経験
 - この会社での各プロジェクトで関わった製品
   - OS
     - HP-UX 11i v2
@@ -182,7 +185,8 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 - 役割：メンバ
 - 実績：
   - 郵便システムの設計・構築フェーズにおいて、メンバとして対応
-  - 
+  - インフラ関連チームだけで200人規模のプロジェクトを経験
+  - 別チームとの技術的な会話・調整を経験
 - この会社での各プロジェクトで関わった製品
   - OS
     - HP-UX 11i v3
@@ -195,37 +199,29 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 
 #### SIer 1 2007/08 ～ 2012/12
 
-<details>
-<summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
-<pre>
-<code>
-OS
- - HP-UX 11i v2/v3
- - RHEL 5.5
-DBMS
- - Oracle Database 11g
-Web/AP
- - Oracle WebLogic Server 9
- - Oracle Application Server 10g
-他システム通信
- - WebSphere MQ 6/7
- - HULFT 6
-その他
- - Bash shell
- - C Shell
- - C言語
- - NEC MCOne
-</code>
-</pre>
-</details>
-
-- 証券会社バックシステム更改
-  - 役割：メンバ
-  - 業務内容：既存システムの大幅機能追加のため、HWのスケールアップや各種設定変更を行う
-  - 特記事項：
-    - ドキュメント作成：設計書、作業手順書、テスト仕様書
-    - OS構築：インストール、各種設定
-    - MQ構築：キューマネージャ作成、MQオブジェクト(チャネル、キュー、リスナーなど)作成、設定ファイル修正、外部システム疎通試験
-    - MCOne構築：インストール、設定ファイル修正
-    - WLS構築：インストール、管理サーバ・管理対象サーバ作成、管理コンソールによる各種設定(Javaヒープ・パーマネントメモリサイズ、コネクションプール、スレッドプール、アプリケーションデプロイ、タイムアウトなど)
-    - 運用モジュール作成：MQのAPIを使用したCのプログラミング、テスト
+- 役割：メンバ
+- 実績：
+  - 証券会社の各種システムの設計・構築・保守・運用フェーズにおいて、メンバとして対応
+  - 常駐先のプロパから仕事の進め方を教わる
+  - 幸運にも常駐先のプロパがとても優秀であり、教わった仕事の進め方でどのプロジェクトに行っても通用している
+  - 24/365のシステムを経験
+  - 対外システムとの疎通試験を経験
+  - ミドルウェアの全パラメータを洗い出し、一つひとつのパラメータに対して検討する詳細設計を経験
+  - エンドユーザへの設計書の説明を経験
+- この会社での各プロジェクトで関わった製品
+  - OS
+    - HP-UX 11i v2/v3
+    - RHEL 5.5
+  - DBMS
+    - Oracle Database 11g
+  - Web/AP
+    - Oracle WebLogic Server 9
+    - Oracle Application Server 10g
+  - 他システム通信
+    - WebSphere MQ 6/7
+    - HULFT 6
+  - その他
+    - Bash shell
+    - C Shell
+    - C言語
+    - NEC MCOne
