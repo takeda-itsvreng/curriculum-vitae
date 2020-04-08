@@ -3,6 +3,8 @@
 簡易版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-jp-simplified.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
+**最終更新日：2020/04/08**
+
 ## 基本情報
 
 | key | value |
@@ -17,8 +19,6 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 | Facebook | https://web.facebook.com/hiroki.takeda.9216 |
 
 ## 現在の状況
-
-**最終更新日：2020/04/08**
 
 週5の客先常駐で案件に参画しています。  
 案件を変える気は今のところありません。
