@@ -20,7 +20,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 
 最終更新日：2020/04/08
 
-週5の客先常駐で案件に参画しています。
+週5の客先常駐で案件に参画しています。  
 案件を変える気は今のところありません。
 
 空いている時間でお手伝いできるようなことがあれば、ご相談いただけると幸いです。
