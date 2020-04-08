@@ -8,12 +8,22 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 | key | value |
 ----|----
 | HN | たけだ |
-| 住所 | ミャンマーのヤンゴン |
+| 住所 | 東京 |
+| 職業 | フリーランスITインフラエンジニア |
 | 資格 | 基本情報、応用情報 |
 | 英語力 | TOEIC 685点 (2019/3) |
 | ブログ | https://takeda-itsvreng.com/ |
 | Twitter | https://twitter.com/takeda_itsvreng |
 | Facebook | https://web.facebook.com/hiroki.takeda.9216 |
+
+## 現在の状況
+
+最終更新日：2020/04/08
+
+週5の客先常駐で案件に参画しています。
+案件を変える気は今のところありません。
+
+空いている時間でお手伝いできるようなことがあれば、ご相談いただけると幸いです。
 
 ## 概要
 
@@ -27,6 +37,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
     - 非機能要件(高可用・バックアップリストア・監視・運用・BCPなど)をシステム全体のレベルで把握・実装する
     - システムの保守・運用でインフラ関連の障害が発生した際の対応(サポートへの問い合わせ、根本原因調査・対処、ほぼミスのない作業)
     - 他者との認識を合わせるためのコミュニケーション(ただしこれは優秀な人との場合はほぼ問題ないが、そうでない人との場合は失敗する可能性あり)
+    - 発展途上国に赴任し、現地の人と英語でコミュニケーションを取り、技術のアドバイスやドキュメントのレビューを行う
   - あまりできない or やったことがないこと
     - PMやPLのような自分が責任者となりメンバーを動かして成果を出す
     - アーキテクチャやソフトウェア選定レベルの設計・見積もり
@@ -41,9 +52,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 
 以下は全てSESのような契約で参画しています。  
 
-#### ミャンマーのSIer(日本の会社とミャンマーの会社の合弁会社) 2019/10 ～
-
-現在、技術アドバイザのような立ち位置で参画中。
+#### ミャンマーのSIer(日本の会社とミャンマーの会社の合弁会社) 2019/10 ～ 2020/03
 
 日本人が2人、ミャンマー人が20人といった体制の会社。  
 基本的にはミャンマー人と一緒に仕事。  
@@ -56,12 +65,14 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 DBMS
  - Oracle Database 12.1/12.2
  - Oracle Enterprise Manager Cloud Control 13.3
+FCスイッチ
+ - Dell EMC PowerSwitch S4148U-ON
 </code>
 </pre>
 </details>
 
 - 各種銀行系システム対応
-  - 時期：2019/10 ～ 
+  - 時期：2019/10 ～ 2020/03
   - 役割：技術アドバイザ
   - 業務内容：複数のシステムに少しずつ関わっているため、主に実施した内容を記載
   - 特記事項：
@@ -71,7 +82,8 @@ DBMS
     - Oracle DB障害対応をメンバ主動で実施(RHEL7上)
       - 調査と対応案検討と対応手順作成は実施したが、対応案決定と対応作業はメンバ主動で実施
       - ベンダの障害対応サポート費用を削減
-
+    - 各種ドキュメントのレビューを実施
+      - WBSやパラメータシート、手順書のレビューを実施
 ---
 
 #### 放送局グループ会社(ユーザ企業のようなもの) 2016/05 ～ 2019/09
