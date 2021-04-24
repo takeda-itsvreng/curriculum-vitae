@@ -3,7 +3,7 @@
 簡易版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-jp-simplified.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
-**最終更新日：2020/04/08**
+**最終更新日：2021/04/24（修正中）**
 
 ## 基本情報
 
@@ -16,7 +16,6 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 | 英語力 | TOEIC 685点 (2019/3) |
 | ブログ | https://takeda-itsvreng.com/ |
 | Twitter | https://twitter.com/takeda_itsvreng |
-| Facebook | https://web.facebook.com/hiroki.takeda.9216 |
 
 ## 現在の状況
 
@@ -51,6 +50,68 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 ## 業務経歴
 
 以下は全てSESのような契約で参画しています。  
+
+#### 放送局グループ会社(出戻り) 2020/05 ～ 
+
+<details>
+<summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
+<pre>
+<code>
+AWX
+ - EC2
+OS
+ - RHEL 7/8
+ - WindowsServer 2012R2/2016/2019
+仮想化
+ - ESXi 6.0/6.5/6.7
+ - vCSA 6.0/6.5/6.7
+DBMS
+ - Oracle Database 12c/19c
+ - EDB Postgres 10/13
+Web/AP
+ - Weblogic 12c/14c
+ - Apache
+ - Tomcat
+監視
+ - Zabbix 3/4
+ - JP1 Base/IM/AJS/TELStaff
+バックアップ
+ - Netbackup
+ - Veeam Backup & Replication
+高可用
+ - Symantec ApplicationHA
+Windows管理
+ - ActiveDirectory
+ - WSUS
+セキュリティ
+ - SEPM
+ - ESET
+ - Apex One
+その他
+ - Bash shell
+ - Powershell
+ - VMware PowerCLI
+ - Ansible
+ - AWX
+ - GitLab
+ - Serverspec
+ - Molecule
+</code>
+</pre>
+</details>
+
+- 既存システム保守・運用
+  - 役割：メンバ
+  - 業務内容：
+    - 既存システムに問題が発生した場合に対応を実施
+    - 開発環境のセキュリティソフトを移行アップデート（VBCorpからApex One）
+
+- キー局営放システム更改
+  - 役割：メンバ
+  - 業務内容：
+    - 更改後バージョンの検証環境を構築
+
+---
 
 #### ミャンマーのSIer(日本の会社とミャンマーの会社との合弁会社) 2019/10 ～ 2020/03
 
