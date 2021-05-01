@@ -3,7 +3,7 @@
 簡易版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-jp-simplified.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
-**最終更新日：2021/04/24（修正中）**
+**最終更新日：2021/05/01**
 
 ## 基本情報
 
@@ -72,6 +72,8 @@ Web/AP
  - Weblogic 12c/14c
  - Apache
  - Tomcat
+ファイル転送
+ - HULFT 8
 監視
  - Zabbix 3/4
  - JP1 Base/IM/AJS/TELStaff
@@ -105,11 +107,14 @@ Windows管理
   - 業務内容：
     - 既存システムに問題が発生した場合に対応を実施
     - 開発環境のセキュリティソフトを移行アップデート（VBCorpからApex One）
+    - OSパラメータチェック自動化テストコードをServerspecで作成（LinuxおよびWindows）
 
 - キー局営放システム更改
   - 役割：メンバ
   - 業務内容：
-    - 更改後バージョンの検証環境を構築
+    - 更改後バージョンの検証環境を構築（AnsibleおよびAWXで自動化）
+    - 更改後DR環境をパブリッククラウドとするため、AWSに検証環境を構築
+    - Active DirectoryのLDAPS接続用検証環境を構築
 
 ---
 
