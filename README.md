@@ -3,7 +3,7 @@
 簡易版は[こちら](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-jp-simplified.md)  
 In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blob/master/cv-en.md)
 
-**最終更新日：2021/05/01**
+**最終更新日：2021/06/12**
 
 ## 基本情報
 
@@ -12,7 +12,7 @@ In English, Click [here](https://github.com/takeda-itsvreng/curriculum-vitae/blo
 | HN | たけだ |
 | 住所 | 東京 |
 | 職業 | フリーランスITインフラエンジニア |
-| 資格 | 基本情報、応用情報 |
+| 資格 | 応用情報（2010/12） <br> AWS認定クラウドプラクティショナー（2021/6） |
 | 英語力 | TOEIC 685点 (2019/3) |
 | ブログ | https://takeda-itsvreng.com/ |
 | Twitter | https://twitter.com/takeda_itsvreng |
