@@ -58,15 +58,15 @@ OS
  - RHEL 7/8
  - WindowsServer 2012R2/2016/2019
 仮想化
- - ESXi 6.0/6.5/6.7
- - vCSA 6.0/6.5/6.7
+ - ESXi 6.0/6.5/6.7/7.0
+ - vCSA 6.0/6.5/6.7/7.0
 DBMS
  - Oracle Database 12c/19c
- - EDB Postgres 10/13
+ - EDB Postgres 10/13/14
 Web/AP
  - Weblogic 12c/14c
  - Apache
- - Tomcat
+ - Tomcat 8.5/9
 ファイル転送
  - HULFT 8
 監視
@@ -77,6 +77,7 @@ Web/AP
  - Veeam Backup & Replication
 高可用
  - Symantec ApplicationHA
+ - CLUSTERPRO
 Windows管理
  - ActiveDirectory
  - WSUS
@@ -85,14 +86,10 @@ Windows管理
  - ESET
  - Apex One
 その他
- - Bash shell
- - Powershell
- - VMware PowerCLI
  - Ansible
  - AWX
  - GitLab
  - Serverspec
- - Molecule
 </code>
 </pre>
 </details>
@@ -107,9 +104,9 @@ Windows管理
 - キー局営放システム更改
   - 役割：メンバ
   - 業務内容：
-    - 更改後バージョンの検証環境を構築（AnsibleおよびAWXで自動化）
+    - 更改後バージョンの開発環境を構築（AnsibleおよびAWXで自動化）
     - 更改後DR環境をパブリッククラウドとするため、AWSに検証環境を構築
-    - Active DirectoryのLDAPS接続用検証環境を構築
+    - RHEL・EDB・Weblogicの詳細設計および単体試験を担当
 
 ---
 
