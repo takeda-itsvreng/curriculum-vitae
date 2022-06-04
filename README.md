@@ -52,7 +52,7 @@
 <summary>この会社での各プロジェクトで関わった製品(折りたたみ)</summary>
 <pre>
 <code>
-AWX
+AWS
  - EC2
 OS
  - RHEL 7/8
